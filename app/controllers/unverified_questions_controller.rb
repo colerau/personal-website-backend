@@ -1,0 +1,2 @@
+class UnverifiedQuestionsController < ApplicationController
+end

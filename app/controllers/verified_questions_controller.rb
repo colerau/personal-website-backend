@@ -1,0 +1,2 @@
+class VerifiedQuestionsController < ApplicationController
+end

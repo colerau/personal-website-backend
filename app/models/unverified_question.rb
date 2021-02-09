@@ -1,0 +1,2 @@
+class UnverifiedQuestion < ApplicationRecord
+end
